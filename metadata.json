@@ -1,0 +1,8 @@
+{
+  "name": "Tra Cứu & Tuân Thủ Pháp Lý",
+  "description": "Hệ thống tra cứu, ma trận tuân thủ và đối chiếu quy định pháp luật kế toán (TT200/2014 vs TT99/2025, Luật Kế toán 88/2015, VAS 21) với Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
